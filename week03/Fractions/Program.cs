@@ -62,9 +62,9 @@ class Program
     {
  // creating fractions using various constructors
 
-        Fraction frac1 = new Fraction(2, 5);  
+        Fraction frac1 = new Fraction(3, 5);  
         Fraction frac2 = new Fraction(5);  
-        Fraction frac3 = new Fraction(4, 6);  
+        Fraction frac3 = new Fraction(4, 5);  
         Fraction frac4 = new Fraction(3, 8);  
 
 //this is to display the fraction as a strings
