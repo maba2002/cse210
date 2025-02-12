@@ -51,7 +51,7 @@ class Program
      // Create video instances and adding comments
        
         Video video1 = new Video(" Excel tutorial for beginners", "Kevin Stratvert", 400);
-        video1.AddComment(new Comment("Menya Isaac", "Awesome thank you Kevin."));
+        video1.AddComment(new Comment("Menya Isaac", "Awesome thank you very much."));
         video1.AddComment(new Comment("Ugoma Gloria", "it has taught me what l didnt know."));
         video1.AddComment(new Comment("Ronald Bamutesiza", "Perfect, this is what l was looking for."));
         videos.Add(video1);

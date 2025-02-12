@@ -202,7 +202,7 @@ class Program
 
         Customer customer1 = new Customer("Ambayo Roney", address1);
         Customer customer2 = new Customer("Kaudha Josephine", address2);
-        Customer customer3 = new Customer("Ngobi Aaron", address3);
+        Customer customer3 = new Customer("Aketch Anne", address3);
 
         Product product1 = new Product("Saw", "D404", 12.99m, 2);
         Product product2 = new Product("Thingy", "TQ10", 5.29m, 3);
